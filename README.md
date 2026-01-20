@@ -1,8 +1,11 @@
 👋 Hola, soy Nelly 
+
 Soy QA Engineer, con experiencia en pruebas manuales, funcionales, de regresión, de humo y móviles (Android Studio). Manejo herramientas como Jira, Postman, DevTools, Figma y tengo conocimientos en bases de datos SQL, versionado con GitHub y automatización básica con Selenium y Python.
+
 Mi trayectoria como Oficial de Cumplimiento en banca fortaleció mi capacidad de análisis, gestión de riesgos y precisión documental, aportando una visión rigurosa a proyectos tecnológicos por lo que puedo contribuir al desarrollo, mejora continua, soporte técnico resiliente y a la calidad de software, centrados en el usuario dando como resultado productos confiables.  
 
 Sobre mi:
+
 🔎 Recientemente me gradué de QA Enginner en Tripleten LATAM.
 •	🤝 Busco colaborar en proyectos de testing manual y QA.
 •	📊 Experiencia: Oficial de Cumplimiento, especialista en AML y Auditoría.
