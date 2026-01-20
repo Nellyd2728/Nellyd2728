@@ -35,5 +35,5 @@ Sobre mi:
 
 •	💼 LinkedIn: www.linkedin.com/in/nellydominguez-qaengineer
 
-- ⚡ Fun fact: Profesional, resilente, mi experiencia es de gran aporte para alcanzar los objetivos
+- ⚡ Fun fact: Mi experiencia es de gran aporte para alcanzar los objetivos
 -->
