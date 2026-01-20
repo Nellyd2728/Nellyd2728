@@ -1,3 +1,6 @@
+![1761859689498](https://github.com/user-attachments/assets/80bffe9b-faf2-49ce-9869-8a2d5f5668ff)
+
+
 👋 Hola, soy Nelly 
 
 Soy QA Engineer yunior, con experiencia en pruebas manuales, funcionales, de regresión, de humo y móviles (Android Studio). Manejo herramientas como Jira, Postman, DevTools, Figma y tengo conocimientos en bases de datos SQL, versionado con GitHub y automatización básica con Selenium y Python.
