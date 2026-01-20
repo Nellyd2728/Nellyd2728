@@ -12,7 +12,7 @@ Sobre mi:
 
 •	📊 Experiencia: Oficial de Cumplimiento, especialista en riesgo de AML, Auditoría, Manejo de Procesos.
 
-•	💻 Herramientas: Jira, Postman, SQL, GitHub, DevTools.
+•	💻 Herramientas: Jira, Postman, SQL, Cygwin, GitHub, DevTools, Android Studio, Pytest.
 
 🚀 Habilidades técnicas
 
