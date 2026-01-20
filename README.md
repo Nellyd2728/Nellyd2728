@@ -10,7 +10,7 @@ Sobre mi:
 
 •	🤝 Busco colaborar en proyectos de testing manual y QA.
 
-•	📊 Experiencia: Oficial de Cumplimiento, especialista en AML y Auditoría.
+•	📊 Experiencia: Oficial de Cumplimiento, especialista en riesgo de AML, Auditoría, Manejo de Procesos.
 
 •	💻 Herramientas: Jira, Postman, SQL, GitHub, DevTools.
 
