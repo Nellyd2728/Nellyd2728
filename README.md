@@ -15,6 +15,7 @@ Sobre mi:
 •	💻 Herramientas: Jira, Postman, SQL, GitHub, DevTools.
 
 🚀 Habilidades técnicas
+
 <img width="506" height="66" alt="image" src="https://github.com/user-attachments/assets/402b5bdc-58a6-473f-a7fc-6b198ca5089a" />
  
  •	🚀 Actualmente
@@ -26,7 +27,10 @@ Sobre mi:
 •	💡 Apasionada por la mejora continua, la calidad del software y el trabajo en equipo.
 
 •	📫 Cómo contactarme
+
 •	✉️ Email: [siebennelly@gmail.com]
+
 •	💼 LinkedIn: www.linkedin.com/in/nellydominguez-qaengineer
-- ⚡ Fun fact: 
+
+- ⚡ Fun fact: Profesional, resilente, mi experiencia es de gran aporte para alcanzar los objetivos
 -->
