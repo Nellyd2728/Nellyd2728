@@ -1,6 +1,6 @@
 👋 Hola, soy Nelly 
 
-Soy QA Engineer, con experiencia en pruebas manuales, funcionales, de regresión, de humo y móviles (Android Studio). Manejo herramientas como Jira, Postman, DevTools, Figma y tengo conocimientos en bases de datos SQL, versionado con GitHub y automatización básica con Selenium y Python.
+Soy QA Engineer yunior, con experiencia en pruebas manuales, funcionales, de regresión, de humo y móviles (Android Studio). Manejo herramientas como Jira, Postman, DevTools, Figma y tengo conocimientos en bases de datos SQL, versionado con GitHub y automatización básica con Selenium y Python.
 
 Mi trayectoria como Oficial de Cumplimiento en banca fortaleció mi capacidad de análisis, gestión de riesgos y precisión documental, aportando una visión rigurosa a proyectos tecnológicos por lo que puedo contribuir al desarrollo, mejora continua, soporte técnico resiliente y a la calidad de software, centrados en el usuario dando como resultado productos confiables.  
 
